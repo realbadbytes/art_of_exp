@@ -1,2 +1,0 @@
-break /home/user/art_of_exp/stack_example.c:10
-
